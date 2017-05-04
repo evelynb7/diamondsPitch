@@ -158,9 +158,9 @@ The advised estimates are reasonably within range of actual* prices, as illustra
 </br>
 The **Diamond Price Estimator** application is a useful interactive tool which enables the user to define combinations of diamond characteristics and receive a price estimate instantly.
 
-[Get the app!](https://evelynb7.shinyapps.io/diamonds/)
+<a href = "https://evelynb7.shinyapps.io/diamonds/", target = "_blank">Get the app!</a>
 
-[Get presentation code](http://github.com/evelynb7/diamondsPitch.git)
+<a href = "http://github.com/evelynb7/diamondsPitch.git", target = "_blank">Get presentation code</a>
 
 <div class="footer" style="margin-top:-10px;font-size:50%; line-height:90%;">
 * This application uses the <b>diamonds</b> dataset included in the <code>ggplot2</code> R package and should not be taken to be a true representation of current market diamond prices.</div>
